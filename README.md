@@ -13,7 +13,7 @@ How To Use:
 
 4. After getting the checksum hash add the plugin to your currnet project by:
 
-cordova plugin add https://github.com/narendra-ct/Cordova-Paytm-Plugin.git --variable MERCHANT_ID=xxxxxxxxx --variable INDUSTRY_TYPE_ID=xxxxxx --variable CHANNEL_ID=xxx --variable WEBSITE=xxxxx
+cordova plugin add https://github.com/redoc123/Cordova-Paytm-Plugin.git --variable MERCHANT_ID=xxxxxxxxx --variable INDUSTRY_TYPE_ID=xxxxxx --variable CHANNEL_ID=xxx --variable WEBSITE=xxxxx
 
 [update xxxxx with actual values (Provided by Paytm)]
 
